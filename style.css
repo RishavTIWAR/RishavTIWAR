@@ -12,8 +12,8 @@ a{
 .hero{
     width: 100%;
     height: 100vh;
-    background: url(logo.png);
-    background-size: cover;
+   /* background: url(logo.png);
+    background-size: cover; */
 }
 nav{
     display: flex;
